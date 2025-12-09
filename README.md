@@ -24,7 +24,7 @@ Remote sensing object detection (RSOD) faces significant challenges, including s
 
 ## Get Started
 
-Please see [LEGNet](https://github.com/AeroVILab-AHU/LEGNet) for the basic usage of MMRotate.
+Please see [LEGNet](https://github.com/AeroVILab-AHU/LEGNet) for the code, weights and basic usage of MMRotate.
 
 
 ## Acknowledgement
